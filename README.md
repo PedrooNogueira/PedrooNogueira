@@ -10,6 +10,9 @@
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro2350&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro2350)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
@@ -19,6 +22,8 @@
 "/><img align= "center" alt= "saas" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
 "/>
 <div>
+
+
 
 
 
