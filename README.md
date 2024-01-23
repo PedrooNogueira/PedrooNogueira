@@ -4,14 +4,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Nogueira;I'm+19+years+old;I'm+from+Brazil;I+student+systems+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedro2350&show_icons=true&count_private=true&hide_border=true&title_color=C0C0C0&icon_color=808080&text_color=808080&bg_color=0d1117" alt="Pedro Nogueira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro2350&layout=compact&hide_border=true&title_color=&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedrooNogueira&show_icons=true&count_private=true&hide_border=true&title_color=C0C0C0&icon_color=808080&text_color=808080&bg_color=0d1117" alt="Pedro Nogueira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrooNogueira&layout=compact&hide_border=true&title_color=&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedro2350&bg_color=00000b&color=c0c0c0&line=ffffff&point=808080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedrooNogueira&bg_color=00000b&color=c0c0c0&line=ffffff&point=808080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedro2350&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PedrooNogueira&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 
